@@ -1,0 +1,13 @@
+All 7 Bandz indicators are now free and open source. No Whop subscription is required.
+
+Bandz HTF: https://github.com/samuelharting/bandz-htf
+Bandz All-in-One: https://github.com/samuelharting/bandz-all-in-one
+Bandz STDV Flow: https://github.com/samuelharting/bandz-stdv-flow
+Bandz Levels: https://github.com/samuelharting/bandz-levels
+Bandz Sessions: https://github.com/samuelharting/bandz-sessions
+Bandz SMT: https://github.com/samuelharting/bandz-smt
+Bandz Intraday: https://github.com/samuelharting/bandz-intraday
+
+All indicators in one place: https://github.com/samuelharting/bandz-indicators
+
+Open any repository for the complete Pine source and TradingView installation instructions. Use Code → Download ZIP to keep a backup.

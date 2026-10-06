@@ -1,16 +1,32 @@
 # Bandz All-in-One
 
-Bandz All-in-One is an integrated execution-context workspace. Its five chart modules remain independently controllable, while an optional Context Summary consumes their live state and explains when they agree.
+Free, open-source Pine Script v6 indicator by Bandz-ICT.
 
-Included modules:
-• STDV/CISD structures with lifecycle handling, anchor invalidation, objective zones, and configurable visibility.
-• Projected higher-timeframe candle lanes with range levels, midpoints, countdowns, and sweep guides.
-• Session boxes, session levels, opening prices, and optional opening-gap context.
-• Intraday timing windows, period dividers, and first-presented fair-value gaps.
-• Multi-timeframe SMT across two configurable comparison symbols.
+Five independently configurable modules: STDV/CISD, HTF candles, sessions, intraday timing/FVG, and SMT.
 
-The optional Context Summary evaluates four directional inputs: HTF location and developing-candle delivery, unresolved bullish versus bearish STDV projections, the direction and freshness of the latest automatic-timeframe FVG, and the newest non-conflicting SMT divergence. Session state is shown separately as a timing qualifier. The panel displays each component, active session, signed score, confidence, and bullish, bearish, or mixed state. These values are also available in the Data Window, and alerts fire only when the integrated state newly reaches the configured threshold.
+## Install in TradingView
 
-All five modules are enabled by default. Cross-timeframe history is deliberately bounded so the complete workspace can run together on lower chart timeframes.
+1. Open [Bandz-All-in-One.pine](Bandz-All-in-One.pine), select **Raw**, and copy the complete code.
+2. Open TradingView's Pine Editor and create a new indicator.
+3. Replace the starter code with the complete source, save, and select **Add to chart**.
+4. Configure the inputs for your symbol and timeframe.
 
-Limitations: this indicator does not place trades or calculate performance; developing-bar conditions can change; old FVG and SMT context expires according to user settings; comparison symbols can have different sessions; and an aligned state is context, not a guarantee. Confirm price, liquidity, session, and risk independently.
+No Whop payment or invitation is required to use this source.
+
+Free public TradingView release: https://www.tradingview.com/script/CedxWd5T-Bandz-All-in-One-Open-Source/
+
+## Backup
+
+Use **Code → Download ZIP** or clone this repository to keep a local copy. The source is preserved independently of its TradingView publication. Pine Script runs on TradingView; this backup preserves the code.
+
+Source snapshot: October 6, 2026. Trading logic is unchanged from the current published indicator; whitespace from TradingView's source display was normalized.
+
+All seven indicators: [Bandz Indicators](https://github.com/samuelharting/bandz-indicators).
+
+## License
+
+Mozilla Public License 2.0. See [LICENSE](LICENSE). Author notices are preserved.
+
+## Limitations
+
+Developing candles and multi-timeframe inputs can change before closing. Comparison symbols can have different sessions. Chart signals and projection levels do not guarantee trading outcomes.

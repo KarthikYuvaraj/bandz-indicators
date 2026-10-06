@@ -14,6 +14,20 @@ The seven Bandz indicators are free and open source. This repository preserves t
 | Multi-Timeframe SMT + Timecycle Scanner | [Bandz-SMT.pine](indicators/smt/Bandz-SMT.pine) |
 | Intraday Timing + FVG | [Bandz-Intraday.pine](indicators/intraday/Bandz-Intraday.pine) |
 
+## Individual public repositories
+
+Each indicator also has its own public repository with complete Pine source, a license, and installation instructions:
+
+- [HTF](https://github.com/samuelharting/bandz-htf)
+- [All-in-One](https://github.com/samuelharting/bandz-all-in-one)
+- [STDV Flow](https://github.com/samuelharting/bandz-stdv-flow)
+- [Levels](https://github.com/samuelharting/bandz-levels)
+- [Sessions](https://github.com/samuelharting/bandz-sessions)
+- [SMT](https://github.com/samuelharting/bandz-smt)
+- [Intraday](https://github.com/samuelharting/bandz-intraday)
+
+[Discord-ready link list](DISCORD-LINKS.txt)
+
 ## Use in TradingView
 
 1. Open a source file above, select **Raw**, and copy the complete code.
