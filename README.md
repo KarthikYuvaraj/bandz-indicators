@@ -6,13 +6,13 @@ The seven Bandz indicators are free and open source. This repository preserves t
 
 | Indicator | Complete source | Public repository |
 | --- | --- | --- |
-| Bandz HTF Candles | PSP & SMT | [Bandz-HTF.pine](indicators/htf/Bandz-HTF.pine) | [GitHub](https://github.com/samuelharting/bandz-htf-candles-psp-smt) |
-| Bandz All-in-One | ICT Trading Toolkit | [Bandz-All-in-One.pine](indicators/all-in-one/Bandz-All-in-One.pine) | [GitHub](https://github.com/samuelharting/bandz-ict-all-in-one) |
-| Bandz PO3 | STDV Projections & CISD | [Bandz-STDV-Flow.pine](indicators/stdv-flow/Bandz-STDV-Flow.pine) | [GitHub](https://github.com/samuelharting/bandz-po3-stdv-cisd) |
-| Bandz Key Levels | NWOG, NDOG & ADR | [Bandz-Levels.pine](indicators/levels/Bandz-Levels.pine) | [GitHub](https://github.com/samuelharting/bandz-key-levels-nwog-ndog-adr) |
-| Bandz Sessions | Killzones, Opening Range & ORG | [Bandz-Sessions.pine](indicators/sessions/Bandz-Sessions.pine) | [GitHub](https://github.com/samuelharting/bandz-sessions-killzones-org) |
-| Bandz SMT / SSMT | Multi-Timeframe Divergence | [Bandz-SMT.pine](indicators/smt/Bandz-SMT.pine) | [GitHub](https://github.com/samuelharting/bandz-smt-ssmt-divergence) |
-| Bandz Intraday | Macros, FVGs & Time Cycles | [Bandz-Intraday.pine](indicators/intraday/Bandz-Intraday.pine) | [GitHub](https://github.com/samuelharting/bandz-intraday-macros-fvg) |
+| Bandz HTF Candles &#124; PSP & SMT | [Bandz-HTF.pine](indicators/htf/Bandz-HTF.pine) | [GitHub](https://github.com/samuelharting/bandz-htf-candles-psp-smt) |
+| Bandz All-in-One &#124; ICT Trading Toolkit | [Bandz-All-in-One.pine](indicators/all-in-one/Bandz-All-in-One.pine) | [GitHub](https://github.com/samuelharting/bandz-ict-all-in-one) |
+| Bandz PO3 &#124; STDV Projections & CISD | [Bandz-STDV-Flow.pine](indicators/stdv-flow/Bandz-STDV-Flow.pine) | [GitHub](https://github.com/samuelharting/bandz-po3-stdv-cisd) |
+| Bandz Key Levels &#124; NWOG, NDOG & ADR | [Bandz-Levels.pine](indicators/levels/Bandz-Levels.pine) | [GitHub](https://github.com/samuelharting/bandz-key-levels-nwog-ndog-adr) |
+| Bandz Sessions &#124; Killzones, Opening Range & ORG | [Bandz-Sessions.pine](indicators/sessions/Bandz-Sessions.pine) | [GitHub](https://github.com/samuelharting/bandz-sessions-killzones-org) |
+| Bandz SMT / SSMT &#124; Multi-Timeframe Divergence | [Bandz-SMT.pine](indicators/smt/Bandz-SMT.pine) | [GitHub](https://github.com/samuelharting/bandz-smt-ssmt-divergence) |
+| Bandz Intraday &#124; Macros, FVGs & Time Cycles | [Bandz-Intraday.pine](indicators/intraday/Bandz-Intraday.pine) | [GitHub](https://github.com/samuelharting/bandz-intraday-macros-fvg) |
 
 ## Individual public repositories
 
@@ -48,3 +48,4 @@ Mozilla Public License 2.0, matching TradingView's default license for open-sour
 ## Limitations
 
 These are discretionary chart tools, not automated trading systems. Developing candles and multi-timeframe inputs can change before closing; comparison markets can have different sessions. Signals and projected levels do not guarantee outcomes. There is no promise of future maintenance or compatibility. Trading involves risk.
+
