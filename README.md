@@ -4,27 +4,27 @@ The seven Bandz indicators are free and open source. This repository preserves t
 
 ## Indicators
 
-| Indicator | Source |
-| --- | --- |
-| HTF | [Bandz-HTF.pine](indicators/htf/Bandz-HTF.pine) |
-| All-in-One | [Bandz-All-in-One.pine](indicators/all-in-one/Bandz-All-in-One.pine) |
-| STDV Flow | [Bandz-STDV-Flow.pine](indicators/stdv-flow/Bandz-STDV-Flow.pine) |
-| Reference Levels + Gaps + ADR | [Bandz-Levels.pine](indicators/levels/Bandz-Levels.pine) |
-| Session Ranges + ORG | [Bandz-Sessions.pine](indicators/sessions/Bandz-Sessions.pine) |
-| Multi-Timeframe SMT + Timecycle Scanner | [Bandz-SMT.pine](indicators/smt/Bandz-SMT.pine) |
-| Intraday Timing + FVG | [Bandz-Intraday.pine](indicators/intraday/Bandz-Intraday.pine) |
+| Indicator | Complete source | Public repository |
+| --- | --- | --- |
+| Bandz HTF Candles | PSP & SMT | [Bandz-HTF.pine](indicators/htf/Bandz-HTF.pine) | [GitHub](https://github.com/samuelharting/bandz-htf-candles-psp-smt) |
+| Bandz All-in-One | ICT Trading Toolkit | [Bandz-All-in-One.pine](indicators/all-in-one/Bandz-All-in-One.pine) | [GitHub](https://github.com/samuelharting/bandz-ict-all-in-one) |
+| Bandz PO3 | STDV Projections & CISD | [Bandz-STDV-Flow.pine](indicators/stdv-flow/Bandz-STDV-Flow.pine) | [GitHub](https://github.com/samuelharting/bandz-po3-stdv-cisd) |
+| Bandz Key Levels | NWOG, NDOG & ADR | [Bandz-Levels.pine](indicators/levels/Bandz-Levels.pine) | [GitHub](https://github.com/samuelharting/bandz-key-levels-nwog-ndog-adr) |
+| Bandz Sessions | Killzones, Opening Range & ORG | [Bandz-Sessions.pine](indicators/sessions/Bandz-Sessions.pine) | [GitHub](https://github.com/samuelharting/bandz-sessions-killzones-org) |
+| Bandz SMT / SSMT | Multi-Timeframe Divergence | [Bandz-SMT.pine](indicators/smt/Bandz-SMT.pine) | [GitHub](https://github.com/samuelharting/bandz-smt-ssmt-divergence) |
+| Bandz Intraday | Macros, FVGs & Time Cycles | [Bandz-Intraday.pine](indicators/intraday/Bandz-Intraday.pine) | [GitHub](https://github.com/samuelharting/bandz-intraday-macros-fvg) |
 
 ## Individual public repositories
 
-Each indicator also has its own public repository with complete Pine source, a license, and installation instructions:
+Each repository includes the complete Pine source, license, and installation instructions.
 
-- [HTF](https://github.com/samuelharting/bandz-htf)
-- [All-in-One](https://github.com/samuelharting/bandz-all-in-one)
-- [STDV Flow](https://github.com/samuelharting/bandz-stdv-flow)
-- [Levels](https://github.com/samuelharting/bandz-levels)
-- [Sessions](https://github.com/samuelharting/bandz-sessions)
-- [SMT](https://github.com/samuelharting/bandz-smt)
-- [Intraday](https://github.com/samuelharting/bandz-intraday)
+- [Bandz HTF Candles | PSP & SMT](https://github.com/samuelharting/bandz-htf-candles-psp-smt)
+- [Bandz All-in-One | ICT Trading Toolkit](https://github.com/samuelharting/bandz-ict-all-in-one)
+- [Bandz PO3 | STDV Projections & CISD](https://github.com/samuelharting/bandz-po3-stdv-cisd)
+- [Bandz Key Levels | NWOG, NDOG & ADR](https://github.com/samuelharting/bandz-key-levels-nwog-ndog-adr)
+- [Bandz Sessions | Killzones, Opening Range & ORG](https://github.com/samuelharting/bandz-sessions-killzones-org)
+- [Bandz SMT / SSMT | Multi-Timeframe Divergence](https://github.com/samuelharting/bandz-smt-ssmt-divergence)
+- [Bandz Intraday | Macros, FVGs & Time Cycles](https://github.com/samuelharting/bandz-intraday-macros-fvg)
 
 [Discord-ready link list](DISCORD-LINKS.txt)
 

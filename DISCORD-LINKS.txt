@@ -1,13 +1,27 @@
-All 7 Bandz indicators are now free and open source. No Whop subscription is required.
+All 7 Bandz indicators are free and open source. Download the complete Pine code without a Whop subscription.
 
-Bandz HTF: https://github.com/samuelharting/bandz-htf
-Bandz All-in-One: https://github.com/samuelharting/bandz-all-in-one
-Bandz STDV Flow: https://github.com/samuelharting/bandz-stdv-flow
-Bandz Levels: https://github.com/samuelharting/bandz-levels
-Bandz Sessions: https://github.com/samuelharting/bandz-sessions
-Bandz SMT: https://github.com/samuelharting/bandz-smt
-Bandz Intraday: https://github.com/samuelharting/bandz-intraday
+Bandz HTF Candles | PSP & SMT
+https://github.com/samuelharting/bandz-htf-candles-psp-smt
 
-All indicators in one place: https://github.com/samuelharting/bandz-indicators
+Bandz All-in-One | ICT Trading Toolkit
+https://github.com/samuelharting/bandz-ict-all-in-one
 
-Open any repository for the complete Pine source and TradingView installation instructions. Use Code → Download ZIP to keep a backup.
+Bandz PO3 | STDV Projections & CISD
+https://github.com/samuelharting/bandz-po3-stdv-cisd
+
+Bandz Key Levels | NWOG, NDOG & ADR
+https://github.com/samuelharting/bandz-key-levels-nwog-ndog-adr
+
+Bandz Sessions | Killzones, Opening Range & ORG
+https://github.com/samuelharting/bandz-sessions-killzones-org
+
+Bandz SMT / SSMT | Multi-Timeframe Divergence
+https://github.com/samuelharting/bandz-smt-ssmt-divergence
+
+Bandz Intraday | Macros, FVGs & Time Cycles
+https://github.com/samuelharting/bandz-intraday-macros-fvg
+
+Full collection:
+https://github.com/samuelharting/bandz-indicators
+
+Each repo includes the full source, download access, and TradingView installation instructions.
