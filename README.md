@@ -1,6 +1,6 @@
 # Bandz Indicators
 
-The seven Bandz indicators are free and open source. This repository preserves their complete Pine Script v6 source independently of TradingView.
+The eight Bandz indicators are free and open source. This repository preserves their complete Pine Script v6 source independently of TradingView.
 
 ## Indicators
 
@@ -14,6 +14,8 @@ The seven Bandz indicators are free and open source. This repository preserves t
 | Bandz SMT / SSMT &#124; Multi-Timeframe Divergence | [Bandz-SMT.pine](indicators/smt/Bandz-SMT.pine) | [GitHub](https://github.com/samuelharting/bandz-smt-ssmt-divergence) |
 | Bandz Intraday &#124; Macros, FVGs & Time Cycles | [Bandz-Intraday.pine](indicators/intraday/Bandz-Intraday.pine) | [GitHub](https://github.com/samuelharting/bandz-intraday-macros-fvg) |
 
+| Bandz HTF Statistical Zones &#124; Sessions & Price Targets | [HTF_Statistical_Zones.pine](indicators/htf-zones/HTF_Statistical_Zones.pine) | [GitHub](https://github.com/samuelharting/bandz-htf-statistical-zones) |
+
 ## Individual public repositories
 
 Each repository includes the complete Pine source, license, and installation instructions.
@@ -25,6 +27,8 @@ Each repository includes the complete Pine source, license, and installation ins
 - [Bandz Sessions | Killzones, Opening Range & ORG](https://github.com/samuelharting/bandz-sessions-killzones-org)
 - [Bandz SMT / SSMT | Multi-Timeframe Divergence](https://github.com/samuelharting/bandz-smt-ssmt-divergence)
 - [Bandz Intraday | Macros, FVGs & Time Cycles](https://github.com/samuelharting/bandz-intraday-macros-fvg)
+
+- [Bandz HTF Statistical Zones | Sessions & Price Targets](https://github.com/samuelharting/bandz-htf-statistical-zones)
 
 [Discord-ready link list](DISCORD-LINKS.txt)
 
@@ -40,6 +44,8 @@ No Whop subscription or invite-only approval is required when you use this sourc
 ## Source and releases
 
 Initial source snapshot: October 6, 2026, taken from the latest seven current Bandz publications. Trading logic was preserved; non-breaking whitespace introduced by TradingView's source display was normalized to ordinary spaces. See each indicator folder for its description and `catalog.json` for publication links. Legacy invite-only links remain in the catalog for provenance and require their existing permissions; open-source publication links are added as they are released.
+
+HTF Statistical Zones was added from the owner-supplied local source on October 6, 2026, without source changes.
 
 ## License
 
