@@ -1,6 +1,6 @@
 # Bandz Indicators
 
-The eight Bandz indicators are free and open source. This repository preserves their complete Pine Script v6 source independently of TradingView.
+The nine Bandz indicators are free and open source. This repository preserves their complete Pine Script v6 source independently of TradingView.
 
 ## Indicators
 
@@ -16,6 +16,8 @@ The eight Bandz indicators are free and open source. This repository preserves t
 
 | Bandz HTF Statistical Zones &#124; Sessions & Price Targets | [HTF_Statistical_Zones.pine](indicators/htf-zones/HTF_Statistical_Zones.pine) | [GitHub](https://github.com/samuelharting/bandz-htf-statistical-zones) |
 
+| Bandz Po3 Profiler | [Bandz_Po3_Profiler.pine](indicators/po3-profiler/Bandz_Po3_Profiler.pine) | [GitHub](https://github.com/samuelharting/bandz-po3-profiler) |
+
 ## Individual public repositories
 
 Each repository includes the complete Pine source, license, and installation instructions.
@@ -29,6 +31,8 @@ Each repository includes the complete Pine source, license, and installation ins
 - [Bandz Intraday | Macros, FVGs & Time Cycles](https://github.com/samuelharting/bandz-intraday-macros-fvg)
 
 - [Bandz HTF Statistical Zones | Sessions & Price Targets](https://github.com/samuelharting/bandz-htf-statistical-zones)
+
+- [Bandz Po3 Profiler](https://github.com/samuelharting/bandz-po3-profiler)
 
 [Discord-ready link list](DISCORD-LINKS.txt)
 
@@ -46,6 +50,8 @@ No Whop subscription or invite-only approval is required when you use this sourc
 Initial source snapshot: October 6, 2026, taken from the latest seven current Bandz publications. Trading logic was preserved; non-breaking whitespace introduced by TradingView's source display was normalized to ordinary spaces. See each indicator folder for its description and `catalog.json` for publication links. Legacy invite-only links remain in the catalog for provenance and require their existing permissions; open-source publication links are added as they are released.
 
 HTF Statistical Zones was added from the owner-supplied local source on October 6, 2026, without source changes.
+
+Po3 Profiler was added from the owner's current TradingView source on October 8, 2026, including saved defaults. [Open-source publication](https://www.tradingview.com/script/i0RzxXU7-Bandz-Po3-Profiler/).
 
 ## License
 

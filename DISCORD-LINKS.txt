@@ -24,5 +24,9 @@ https://github.com/samuelharting/bandz-intraday-macros-fvg
 Bandz HTF Statistical Zones | Sessions & Price Targets:
 https://github.com/samuelharting/bandz-htf-statistical-zones
 
-All eight together:
+Bandz Po3 Profiler:
+https://www.tradingview.com/script/i0RzxXU7-Bandz-Po3-Profiler/
+https://github.com/samuelharting/bandz-po3-profiler
+
+All nine together:
 https://github.com/samuelharting/bandz-indicators

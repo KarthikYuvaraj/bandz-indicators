@@ -63,5 +63,14 @@
     "license": "MPL-2.0",
     "sourceSha256": "1c241a2e1a7d24acf2299ae2d82686ce0e4eaf3bf5be1dd3fdab8b53952b7166",
     "openSourceTradingView": null
+  },
+  {
+    "name": "Bandz Po3 Profiler",
+    "file": "indicators/po3-profiler/Bandz_Po3_Profiler.pine",
+    "sourceDate": "2026-10-08",
+    "repository": "https://github.com/samuelharting/bandz-po3-profiler",
+    "license": "MPL-2.0",
+    "sourceSha256": "b9a767174024b9645f47bed6e12ecb5674d2f5fff6abac583a7757dc853be84f",
+    "openSourceTradingView": "https://www.tradingview.com/script/i0RzxXU7-Bandz-Po3-Profiler/"
   }
 ]
