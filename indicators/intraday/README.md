@@ -13,7 +13,7 @@ Intraday macros, multi-timeframe and first-presented FVGs, period dividers, time
 
 No Whop payment or invitation is required to use this source.
 
-The public TradingView release is pending its daily publication limit. You can use the complete source below now.
+Use the public, open-source [TradingView indicator](https://www.tradingview.com/script/I5ttNn7Z-Bandz-Intraday-Open-Source/) directly, or install from the source above.
 
 ## Backup
 
