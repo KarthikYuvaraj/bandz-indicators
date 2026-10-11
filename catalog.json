@@ -51,7 +51,7 @@
     "name": "Bandz Intraday | Macros, FVGs & Time Cycles",
     "file": "indicators/intraday/Bandz-Intraday.pine",
     "originalTradingView": "https://www.tradingview.com/script/fFzsghcW-Bandz-Intraday-Timing-FVG/",
-    "openSourceTradingView": null,
+    "openSourceTradingView": "https://www.tradingview.com/script/I5ttNn7Z-Bandz-Intraday-Open-Source/",
     "sourceDate": "2026-10-06",
     "repository": "https://github.com/samuelharting/bandz-intraday-macros-fvg"
   },
